@@ -432,7 +432,7 @@ function App() {
         <section className="mb-12">
           <div className="relative w-full h-64 bg-blue-500 rounded-xl overflow-hidden shadow-md">
             <img
-              src="images\iqooneo10r-kv-img1-lg-x2.jpg" // Replace with your banner image URL
+              src="https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/product/1741692391383/zip/img/iqooneo10r-kv-img1-lg-x2.jpg" // Replace with your banner image URL
               alt="Promotional Banner"
               className="w-full h-full object-cover"
             />
