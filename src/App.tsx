@@ -410,7 +410,7 @@ function App() {
           <div className="flex items-center justify-between gap-4">
             <div className="flex items-center gap-2">
               <Smartphone className="w-8 h-8 text-blue-500" />
-              <h1 className="text-xl font-bold">PhoneGuide</h1>
+              <h1 className="text-xl font-bold">SmartBuyGuide</h1>
             </div>
             <SearchBar onSearch={handleSearch} />
             <div className="flex items-center gap-4">
